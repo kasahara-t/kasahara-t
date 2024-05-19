@@ -1,4 +1,6 @@
-### Hi there 👋
+## 🚀 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,cs,docker)](https://skillicons.dev)
 
 <!--
 **kasahara-t/kasahara-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
