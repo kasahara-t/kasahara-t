@@ -6,7 +6,7 @@
 
 ## 🚀 Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,cs,firebase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,python,golang,cs,aws,firebase,docker,figma,vscode,neovim)](https://skillicons.dev)
 
 <!--
 **kasahara-t/kasahara-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
